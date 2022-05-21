@@ -29,3 +29,14 @@ dataset. \ [link to dataset](https://www.unb.ca/cic/datasets/ids.html)
 - LSTM
 - GRU
 - RNN
+\
+\
+**References:**
+1. A. Kuzmanovic and E. W. Knightly, “Low-rate tcp-targeted denial of
+service attacks: the shrew vs. the mice and elephants,” in Proceedings
+of the 2003 conference on Applications, technologies, architectures, and
+protocols for computer communications, 2003, pp. 75–86.
+\
+2. W. Zhijun, L. Wenjing, L. Liang, and Y. Meng, “Low-rate dos attacks,
+detection, defense, and challenges: A survey,” IEEE Access, vol. 8, pp.
+43 920–43 943, 2020.
